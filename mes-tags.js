@@ -83,7 +83,6 @@ shopHooks.addToCart = function (data) {
   });
 };
 
-{
 
 
 
