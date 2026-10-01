@@ -84,15 +84,3 @@ shopHooks.addToCart = function (data) {
 };
 
 {
-  event: "purchase",
-  ecommerce: {
-    transaction_id: "KOP-20260930-2306",
-    currency: "EUR",
-    value: 337.5,
-    tax: 57.9,
-    shipping: 9.9,
-    coupon: "GTM10",
-    items: [ { item_id: "SRFC-DOM-26", item_variant: "L", price: 90, quantity: 3, … },
-             { item_id: "SRFC-DOM-26", item_variant: "L", price: 105, quantity: 1, … } ]
-  }
-}
